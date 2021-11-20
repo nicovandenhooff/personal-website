@@ -16,14 +16,14 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: numpy, pandas, sklearn, tensorflow, matplotlib, altair, seaborn and more
-  icon: python
-  icon_pack: fab
-  name: python
 - description: tidyverse, dplyr, ggplot2
   icon: r-project
   icon_pack: fab
   name: R
+- description: numpy, pandas, sklearn, tensorflow, matplotlib, altair, seaborn and more
+  icon: python
+  icon_pack: fab
+  name: python
 - #description: postgres
   icon: database
   icon_pack: fas

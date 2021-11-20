@@ -6,7 +6,7 @@
 # Appearance
 
 theme: minimal
-day_night: true
+day_night: false
 font: ''
 font_size: M
 
@@ -20,7 +20,7 @@ twitter: 'nicovandenhooff'
 
 # Contact (edit or remove options as required)
 
-email: nicovandenhooff@gmail.com
+email: ''
 address:
   city: Vancouver
   region: BC
