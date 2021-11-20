@@ -27,17 +27,18 @@ address:
   country: Canada
   country_code: CAN
 coordinates:
-  latitude: '49.2827'
-  longitude: '123.1207'
+  latitude: '49.267941'
+  longitude: '-123.247360'
 contact_links:
-  - icon: twitter-square
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/nicovandenhooff'
   - icon: linkedin
     icon_pack: fab
     name: Connect with me
     link: 'https://www.linkedin.com/in/nicovandenhooff/'
+  - icon: twitter-square
+    icon_pack: fab
+    name: DM Me
+    link: 'https://twitter.com/nicovandenhooff'
+  
 
 # Site header
 

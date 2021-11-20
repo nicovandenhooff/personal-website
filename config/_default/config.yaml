@@ -5,7 +5,7 @@
 
 title: Nico Van den Hooff # Website name
 baseurl: 'https://www.nicovandenhooff.com/' # Website URL
-copyright: '© {2021}' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Nico Van den Hooff' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
