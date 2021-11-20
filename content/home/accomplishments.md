@@ -33,7 +33,7 @@ item:
   url: ""
 - certificate_url: https://www.coursera.org/account/accomplishments/certificate/94LUMBBRBVNK
   date_end: ""
-  date_start: "2021-06-60"
+  date_start: "2021-06-30"
   description: ""
   organization: edX
   organization_url: https://www.edx.org
