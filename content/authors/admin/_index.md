@@ -57,7 +57,6 @@ social:
   link: https://medium.com/@nicovandenhooff
 
 
-# TODO Add this in the future
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
@@ -65,7 +64,6 @@ social:
 #   icon_pack: ai
 #   link: uploads/resume.pdf
 
-# TODO set up gravatar
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
@@ -73,6 +71,10 @@ email: ""
 highlight_name: true
 ---
 
-Nico is a student in the Master of Data Science Program at The University of British Columbia.  
+I'm currently completing the [Master of Data Science Program](https://masterdatascience.ubc.ca/) (“MDS”) at the University of British Columbia, with an expected graduation date of June 30, 2022.  
 
-Please note that this site is currently under development.
+Prior to UBC, I worked in finance for six years, including three years at KPMG (a "big 4" accounting firm) as a Senior Accountant, and obtained my [Chartered Professional Accountant designation](https://www.cpacanada.ca/).  I placed on the Canadian National Honour roll for the 2017 CPA final exam, which was awarded to the top 1% of writers in Canada.
+
+I have a passion for data science and machine learning and I have the ultimate goal of becoming a Machine Learning Engineer.  Before I started the MDS program at UBC, I focused on building a strong foundation for machine learning, and in my spare time completed several courses focused on math (linear algebra, calculus), programming, and probability and statistics.  I’m very excited to be pivoting my career towards this space and look forward to what the future holds.
+
+In my free time I enjoy long distance running, golf, and whisky tasting.  To date, I’ve completed 3 marathons, and over 20 half marathons.  I’m also the owner of the Instagram account @whiskyaficionado where I share my thoughts about whisky with 10k+ followers.
