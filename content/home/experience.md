@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Work experience
 subtitle:
 
 # Date format for experience
@@ -24,7 +24,7 @@ date_format: '2006'
 experience:
   - title: Senior Accountant
     company: KPMG
-    company_url: ''
+    company_url: 'https://home.kpmg/xx/en/home.html'
     company_logo: kpmg
     location: Vancouver, BC
     date_start: '2018-01-01'
@@ -38,7 +38,7 @@ experience:
         
   - title: Staff Accountant
     company: Baker Tilly Canada
-    company_url: ''
+    company_url: 'https://www.bakertilly.ca/'
     company_logo: baker-tilly
     location: Vancouver, BC
     date_start: '2015-09-01'
