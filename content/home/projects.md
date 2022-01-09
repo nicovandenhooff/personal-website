@@ -48,17 +48,17 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-#### Machine Learning
+### Machine Learning
 
 *The project below is in progress*
 
 - I am participating in the [WiDS Datathon 2022 Kaggle Competition](https://www.kaggle.com/c/widsdatathon2022).  The goal of this project is to use weather data, climate data, and building characteristics to build a Machine Learning model to accurately predit a building's energy consumption.  This project will be complete in February 2022.
 
-#### Data Visualization
+### Data Visualization
 
 - I collected, analyzed, and visualized data on thousands of Machine Learning and Deep Learning GitHub repositories.  I wrote [an article](https://towardsdatascience.com/exploring-the-most-popular-machine-learning-and-deep-learning-github-repositories-90b9ecf12be7) about this project that was published in Towards Data Science and selected as an "Editors Pick".
 
-#### Programming
+### Programming
 
 - I wrote and maintain the Python package [Reddit Data Collector](https://github.com/nicovandenhooff/reddit-data-collector) ("RDC").  RDC is a tool that integrates with Reddit's API and allows a user to collect post and comment data for further analysis.
 
