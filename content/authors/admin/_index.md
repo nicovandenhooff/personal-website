@@ -6,7 +6,7 @@ title: Nico Van den Hooff
 superuser: true
 
 # Role/position/tagline
-role: Master of Data Science Student at UBC
+role: Master of Data Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
