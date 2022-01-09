@@ -2,7 +2,7 @@
 name = "Source Code Pro"
 
 # Optional Google font URL
-google_fonts = "family=Roboto+Mono&family=Source+Code+Pro"
+google_fonts = "family=Roboto+Mono&family=Source+Code+Pro:wght@500"
 
 # Font families
 heading_font = "Source Code Pro"
