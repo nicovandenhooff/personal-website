@@ -21,19 +21,20 @@ interests:
 - Machine Learning
 - Deep Learning
 - Algorithms
+- Data visualization
 
 # Education to show in About widget
 education:
   courses:
-  - course: Master of Data Science
+  - course: Master's of Data Science
     institution: University of British Columbia
     year: 2022
-  - course: Chatered Professional Accountant
-    institution: CPA Canada
+  - course: Chatered Professional Accountants of Canada
+    institution: Professional Education Program
     year: 2017
   - course: Bachelor of Accounting
     institution: British Columbia Institute of Technology
-    year: 2016
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
