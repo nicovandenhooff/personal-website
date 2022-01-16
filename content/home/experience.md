@@ -29,21 +29,23 @@ experience:
     location: Vancouver, BC
     date_start: '2018-01-01'
     date_end: '2021-01-01'
-    # description: |2-
-    #     Responsibilities include:
-        
-    #     * Analysing
-    #     * Modelling
-    #     * Deploying
+    description: |2-
+        * Consistently obtained the highest performance rating within peer group (top 5%).
+        * Managed financial statement audits for banking, wealth management, manufacturing, and real estate clients.
+        * Led the audit of one of the firms largest financial institution clients with $23B in assets for three years, managing a team of 15 individuals from the staff to partner level. Spearheaded automation initiatives, improving the overall profitability of the engagement by 30%.
+        * Presented the key findings of engagements to stakeholders, including senior and executive level management.
+        * Mentored three junior staff throughout their successful completion of the CPA program, including the final exam.
         
   - title: Staff Accountant
-    company: Baker Tilly Canada
+    company: Baker Tilly Canada (f.k.a. Wolrige Mahon LLP)
     company_url: 'https://www.bakertilly.ca/'
     company_logo: baker-tilly
     location: Vancouver, BC
     date_start: '2015-09-01'
     date_end: '2018-12-31'
-    # description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+      * Provided assurance and tax services to clients in the film and entertainment, media, and manufacturing industries.
+      * Managed time efficiently meeting all deadlines while also successfully completing the CPA program with honours.
 
 design:
   columns: '2'

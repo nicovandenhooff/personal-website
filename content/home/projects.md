@@ -52,7 +52,7 @@ design:
 
 *The project below is in progress*
 
-- I am participating in the [WiDS Datathon 2022 Kaggle Competition](https://www.kaggle.com/c/widsdatathon2022).  The goal of this project is to use weather data, climate data, and building characteristics to build a Machine Learning model to accurately predit a building's energy consumption.  This project will be complete in February 2022.
+- I am participating in the [WiDS Datathon 2022 Kaggle Competition](https://www.kaggle.com/c/widsdatathon2022) as a team with three of my classmates from UBC.  The goal of this project is to use weather data, climate data, and building characteristics to build a Machine Learning model to accurately predit a building's energy consumption.  This project will be complete in late February 2022.
 
 ### Data Visualization
 
