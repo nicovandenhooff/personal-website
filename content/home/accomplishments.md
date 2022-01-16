@@ -26,7 +26,7 @@ item:
 - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/YSEXSMPC6P3K
   date_end: ""
   date_start: "2021-08-05"
-  description: "DeepLearning.AI"
+  description: "Specialization by: DeepLearning.AI"
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Deep Learning Specialization
@@ -34,7 +34,7 @@ item:
 - certificate_url: https://www.coursera.org/account/accomplishments/certificate/94LUMBBRBVNK
   date_end: ""
   date_start: "2021-06-30"
-  description: "Stanford"
+  description: "Course by: Stanford University (Andrew Ng's course)"
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Machine Learning
@@ -42,7 +42,7 @@ item:
 - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/BDRJT7YFMHWW
   date_end: ""
   date_start: "2021-05-17"
-  description: "Imperial College London"
+  description: "Specialization by: Imperial College London"
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Mathematics for Machine Learning Specialization
