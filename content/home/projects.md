@@ -48,11 +48,14 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+
+### Deep Learning
+
+- *In progress*: I'm currently working on an image classification project with the [MIT Indoor Scenes](https://www.kaggle.com/itsahmad/indoor-scenes-cvpr-2019) data set and PyTorch.  The end product for this project will include a dashboard implemented with dash, and the project will be complete in April 2022.
+
 ### Machine Learning
 
-*The project below is in progress*
-
-- I am participating in the [WiDS Datathon 2022 Kaggle Competition](https://www.kaggle.com/c/widsdatathon2022) as a team with three of my classmates from UBC.  The goal of this project is to use weather data, climate data, and building characteristics to build a Machine Learning model to accurately predit a building's energy consumption.  This project will be complete in late February 2022.
+- I participated in the [WiDS Datathon 2022 Kaggle Competition](https://www.kaggle.com/c/widsdatathon2022) as a team with three of my classmates from UBC.  The goal of the project was to use weather data, climate data, and building characteristics to build a Machine Learning model to accurately predict a building's energy consumption.  Our [final solution](https://www.kaggle.com/nicojv/wids-datathon-2022-ensemble-learning-top-10) implemented an ensemble of gradient boosted models, and ended up in the top 10% of all solutions on Kaggle.
 
 ### Data Visualization
 
@@ -62,4 +65,4 @@ design:
 
 - I wrote and maintain the Python package [Reddit Data Collector](https://github.com/nicovandenhooff/reddit-data-collector) ("RDC").  RDC is a tool that integrates with Reddit's API and allows a user to collect post and comment data for further analysis.
 
-- I completed the the [first 15 days](https://github.com/nicovandenhooff/advent-of-code-2021) of Advent of Code 2021 ("AOC").  AOC is a yearly challenge that tests participants data structures and algorithms skills.  My solutions are written in Python with an emphasis on the use of vectorization via NumPy.
+- I participated in Advent of Code 2021 ("AOC").  AOC is a yearly challenge that tests participants data structures and algorithms skills.  My [solutions](https://github.com/nicovandenhooff/advent-of-code-2021) are written in Python with an emphasis on the use of vectorization via NumPy.
