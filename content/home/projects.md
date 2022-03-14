@@ -51,7 +51,7 @@ design:
 
 ### Deep Learning
 
-- *In progress*: I'm currently working on an image classification project with the [MIT Indoor Scenes](https://www.kaggle.com/itsahmad/indoor-scenes-cvpr-2019) data set and PyTorch.  The end product for this project will include a dashboard implemented with dash, and the project will be complete in April 2022.
+- *In progress* I'm currently working on an image classification project with the [MIT Indoor Scenes](https://www.kaggle.com/itsahmad/indoor-scenes-cvpr-2019) data set and PyTorch.  The end product for this project will include a dashboard implemented with dash, and the project will be complete in April 2022.
 
 ### Machine Learning
 
