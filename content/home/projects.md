@@ -51,18 +51,18 @@ design:
 
 ### Deep Learning
 
-- *In progress* I'm currently working on an image classification project with the [MIT Indoor Scenes](https://www.kaggle.com/itsahmad/indoor-scenes-cvpr-2019) data set and PyTorch.  The end product for this project will include a dashboard implemented with dash, and the project will be complete in April 2022.
+- I created [Indoor Scene Detector](https://github.com/nicovandenhooff/indoor-scene-detector) with my classmate Melissa Liow.  Indoor Scene Detector is a full stack computer vision application built with PyTorch, Captum, Flask, React, Docker, Heroku and GitHub Pages.  It is capable of classifying images of an indoor scene, such as a bedroom or a kitchen.  You can use one of four convolutional neural networks to classify the image within the application.
 
 ### Machine Learning
 
 - I participated in the [WiDS Datathon 2022 Kaggle Competition](https://www.kaggle.com/c/widsdatathon2022) as a team with three of my classmates from UBC.  The goal of the project was to use weather data, climate data, and building characteristics to build a Machine Learning model to accurately predict a building's energy consumption.  Our [final solution](https://www.kaggle.com/nicojv/wids-datathon-2022-ensemble-learning-top-10) implemented an ensemble of gradient boosted models, and ended up in the top 10% of all solutions on Kaggle.
-
-### Data Visualization
-
-- I collected, analyzed, and visualized data on thousands of Machine Learning and Deep Learning GitHub repositories.  I wrote [an article](https://towardsdatascience.com/exploring-the-most-popular-machine-learning-and-deep-learning-github-repositories-90b9ecf12be7) about this project that was published in Towards Data Science and selected as an "Editors Pick".
 
 ### Programming
 
 - I wrote and maintain the Python package [Reddit Data Collector](https://github.com/nicovandenhooff/reddit-data-collector) ("RDC").  RDC is a tool that integrates with Reddit's API and allows a user to collect post and comment data for further analysis.
 
 - I participated in Advent of Code 2021 ("AOC").  AOC is a yearly challenge that tests participants data structures and algorithms skills.  My [solutions](https://github.com/nicovandenhooff/advent-of-code-2021) are written in Python with an emphasis on the use of vectorization via NumPy.
+
+### Data Visualization
+
+- I collected, analyzed, and visualized data on thousands of Machine Learning and Deep Learning GitHub repositories.  I wrote [an article](https://towardsdatascience.com/exploring-the-most-popular-machine-learning-and-deep-learning-github-repositories-90b9ecf12be7) about this project that was published in Towards Data Science and selected as an "Editors Pick".
