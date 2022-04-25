@@ -20,7 +20,7 @@ bio: Currently completing a Master of Data Science at the University of British 
 interests:
 - Machine Learning
 - Deep Learning
-- Algorithms
+- Computer Vision
 
 # Education to show in About widget
 education:
@@ -40,29 +40,29 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/nicovandenhooff/
 - icon: github
   icon_pack: fab
   link: https://github.com/nicovandenhooff
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/nicovandenhooff/
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/nicovandenhooff
 - icon: medium
   icon_pack: fab
   link: https://medium.com/@nicovandenhooff
+- icon: envelope
+  icon_pack: fas
+  link: '/#contact'
 
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,7 +71,7 @@ email: ""
 highlight_name: true
 ---
 
-I am currently a graduate student in the [Master of Data Science](https://masterdatascience.ubc.ca/) ("MDS") program at the University of British Columbia ("UBC"), with an expected graduation date of June 30, 2022. Over the past year, my studies have been focused on supervised and unsupervised learning, software development, statistics, and data visualization and I have maintained a GPA of 4.33/4.33. My Capstone Project begins in May, and involves applying deep learning to Ring-imaging Cherenkov detector ("RICH") point cloud data for purposes of sub-atomic particle classification (in partnership with TRIUMF and CERN).
+I am currently a graduate student in the [Master of Data Science](https://masterdatascience.ubc.ca/) ("MDS") program at the University of British Columbia ("UBC"), with an expected graduation date of June 30, 2022. At UBC my studies have been focused on supervised and unsupervised learning, software development, statistics, and data visualization. In May, I will begin my capstone project with TRIUMF, where my team and I will work with particle physics data collected by CERN in Switzerland. The purpose of the project will be to build a deep learning model that can accurately classify particle decays.
 
 Prior to UBC, I worked in the finance industry for six years.  Most recently, I worked at [KPMG LLP](https://home.kpmg/ca/en/home.html) Vancouver as a Senior Accountant/Consultant.  At KPMG I gained invaluable experience in project management, as I was in charge of leading engagements with large banking, wealth management, and real estate clients. I am also proud to have obtained the highest performance ranking of top 5% of my peer group for each the years that I was employed at KPMG. I am also a [Chartered Professional Accountant](https://www.cpacanada.ca/) ("CPA"), and I placed on the Canadian National Honour roll in 2017 when I wrote the CPA final entrance exam (awarded to the top 1% of writers across Canada).
 

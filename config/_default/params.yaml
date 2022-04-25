@@ -34,10 +34,6 @@ contact_links:
     icon_pack: fab
     name: Linkedin
     link: 'https://www.linkedin.com/in/nicovandenhooff/'
-  # - icon: twitter-square
-  #   icon_pack: fab
-  #   name: Twitter
-  #   link: 'https://twitter.com/nicovandenhooff'
   - icon: github
     icon_pack: fab
     name: GitHub
