@@ -51,7 +51,8 @@ design:
 
 ### Machine Learning and Deep Learning
 
-- I created [Indoor Scene Detector](https://github.com/nicovandenhooff/indoor-scene-detector) with my classmate Melissa Liow.  Indoor Scene Detector is a full stack computer vision application built with PyTorch, Captum, Flask, React, Docker, Heroku and GitHub Pages.  It is capable of classifying images of an indoor scene, such as a bedroom or a kitchen.  You can use one of four convolutional neural networks to classify the image within the application.
+- I am currently working on my final capstone project for my Master's degree at UBC.  The project is in partnership with [TRIUMF](https://www.triumf.ca/) and [CERN](https://www.home.cern/), and we are working with particle physics data to build a deep learning model that can accurately classify rare particle decays.  It is a challenging problem, as our dataset contains three unbalanced classes and a total of 11 million examples.  The project will be complete in June 2022.
+- I created [Indoor Scene Detector](https://github.com/nicovandenhooff/indoor-scene-detector) with my UBC classmate Melissa Liow.  Indoor Scene Detector is a full stack computer vision application built with PyTorch, Captum, Flask, React, Docker, Heroku and GitHub Pages.  It is capable of classifying images of an indoor scene, such as a bedroom or a kitchen.  You can use one of four convolutional neural networks to classify the image within the application.
 - I participated in the [WiDS Datathon 2022 Kaggle Competition](https://www.kaggle.com/c/widsdatathon2022) as a team with three of my classmates from UBC.  The goal of the project was to use weather data, climate data, and building characteristics to build a Machine Learning model to accurately predict a building's energy consumption.  Our [final solution](https://www.kaggle.com/nicojv/wids-datathon-2022-ensemble-learning-top-10) implemented an ensemble of gradient boosted models, and ended up in the top 10% of all solutions on Kaggle.
 
 ### Programming
@@ -61,4 +62,4 @@ design:
 
 ### Data Visualization
 
-- I collected, analyzed, and visualized data on thousands of Machine Learning and Deep Learning GitHub repositories.  I wrote [an article](https://towardsdatascience.com/exploring-the-most-popular-machine-learning-and-deep-learning-github-repositories-90b9ecf12be7) about this project that was published in Towards Data Science and selected as an "Editors Pick".
+- I collected, analyzed, and visualized data on thousands of Machine Learning and Deep Learning GitHub repositories.  I wrote [an article](https://towardsdatascience.com/exploring-the-most-popular-machine-learning-and-deep-learning-github-repositories-90b9ecf12be7) about this project that was published in Towards Data Science and selected as an "Editors Pick" and a "Hands on Tutorial".

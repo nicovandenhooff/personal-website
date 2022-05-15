@@ -22,7 +22,7 @@ date_format: '2006'
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Senior Accountant
+  - title: Senior Accountant / Consultant
     company: KPMG
     company_url: 'https://home.kpmg/xx/en/home.html'
     company_logo: kpmg
@@ -32,7 +32,7 @@ experience:
     # description:
         
   - title: Staff Accountant
-    company: Baker Tilly Canada (f.k.a. Wolrige Mahon LLP)
+    company: Baker Tilly Canada
     company_url: 'https://www.bakertilly.ca/'
     company_logo: baker-tilly
     location: Vancouver, BC

@@ -39,14 +39,14 @@ item:
   organization_url: https://www.coursera.org
   title: Machine Learning
   url: "https://www.coursera.org/learn/machine-learning?"
-- certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/BDRJT7YFMHWW
+- certificate_url: https://courses.edx.org/certificates/54c0b5ace51f40d092194a090d3ead2d
   date_end: ""
-  date_start: "2021-05-17"
-  description: "Specialization by: Imperial College London"
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Mathematics for Machine Learning Specialization
-  url: "https://www.coursera.org/specializations/mathematics-machine-learning"
+  date_start: "2021-05-11"
+  description: "Course by: HarvardX"
+  organization: edX
+  organization_url: https://www.edx.org/school/harvardx
+  title: "STAT110x: Introduction to Probability"
+  url: "https://www.edx.org/course/introduction-to-probability"
 
 design:
   columns: '2' 
