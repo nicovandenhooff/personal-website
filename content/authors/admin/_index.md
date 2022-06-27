@@ -9,9 +9,9 @@ superuser: true
 role: Incoming Junior Machine Learning Scientist
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: University of British Columbia
-  url: https://masterdatascience.ubc.ca/programs/vancouver
+# organizations:
+# - name: University of British Columbia
+#   url: https://masterdatascience.ubc.ca/programs/vancouver
 
 # Short bio (displayed in user profile at end of posts)
 bio: Currently completing a Master of Data Science at the University of British Columbia
