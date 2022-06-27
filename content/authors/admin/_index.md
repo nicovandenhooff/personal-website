@@ -6,7 +6,7 @@ title: Nico Van den Hooff
 superuser: true
 
 # Role/position/tagline
-role: Master of Data Science
+role: Incoming Junior Machine Learning Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,9 +18,9 @@ bio: Currently completing a Master of Data Science at the University of British 
 
 # Interests to show in About widget
 interests:
-- Machine Learning
-- Deep Learning
-- Computer Vision
+- Machine learning
+- Deep learning
+- Computer vision
 
 # Education to show in About widget
 education:
@@ -68,8 +68,10 @@ email: ""
 highlight_name: true
 ---
 
-I am currently a graduate student in the [Master of Data Science](https://masterdatascience.ubc.ca/) ("MDS") program at the University of British Columbia ("UBC"), with an expected graduation date of June 30, 2022. At UBC my studies have been focused on supervised and unsupervised learning, software development, statistics, and data visualization. I'm currently work on my final capstone project in partnership with TRIUMF and CERN.  My team and I are working with data collected by CERN in Switzerland as part of their [NA62 project](https://home.cern/science/experiments/na62).  We are developing a deep learning model for the purpose of classifying sub-atomic particle decays.
+Currently, I am a graduate student in the [Master of Data Science](https://masterdatascience.ubc.ca/) program at the University of British Columbia ("UBC"). Right now I am working on my final capstone project in partnership with TRIUMF and CERN.  My team and I are working with data collected by CERN in Switzerland as part of their [NA62 research project](https://home.cern/science/experiments/na62).  We are developing a deep learning model to be used in classifying the decays of sub-atomic particles.
 
-Prior to UBC, I worked in the finance industry for six years.  Most recently, I worked at [KPMG LLP](https://home.kpmg/ca/en/home.html) Vancouver as a Senior Accountant/Consultant.  At KPMG I gained invaluable experience in project management, as I was in charge of leading engagements with large banking, wealth management, and real estate clients. I am also proud to have obtained the highest performance ranking of top 5% of my peer group for each the years that I was employed at KPMG. I am also a [Chartered Professional Accountant](https://www.cpacanada.ca/) ("CPA"), and I placed on the Canadian National Honour roll in 2017 when I wrote the CPA final entrance exam (awarded to the top 1% of writers across Canada).
+In July 2022 I will be joining the Multi-Sensor Gateway team at [Patriot One Technologies](https://patriot1tech.com/) as a Junior Machine Learning Scientist.  I am beyond excited to be joining such a talented team, and I am truly looking forward to using machine learning to develop the next generation of covert threat detection systems that will help create a safer world.
+
+I worked in finance for six years prior to completing my Master's degree.  Most recently, I worked at [KPMG LLP](https://home.kpmg/ca/en/home.html) as a Senior Accountant/Consultant.  At KPMG I gained invaluable experience in leadership and project management, as I was in charge of client engagements with large banking, wealth management, and real estate corporations. I am also a [Chartered Professional Accountant](https://www.cpacanada.ca/) ("CPA"), and I placed on the Canadian National Honour roll in 2017 when I wrote the CPA final entrance exam (awarded to the top 1% of writers across Canada).
 
 In my free time I enjoy long distance running, golf, listening to music, and whisky tasting.  I have completed three marathons and several half marathons.  Finally, I am also the owner of the Instagram account [@whiskyaficionado](https://www.instagram.com/whiskyaficionado/?hl=en) where I share my thoughts about whisky with 10k+ followers.
