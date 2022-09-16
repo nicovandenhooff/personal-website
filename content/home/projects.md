@@ -1,4 +1,4 @@
----
+<!-- ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
@@ -62,4 +62,4 @@ design:
 
 ### Data Visualization
 
-- I collected, analyzed, and visualized data on thousands of Machine Learning and Deep Learning GitHub repositories.  I wrote [an article](https://towardsdatascience.com/exploring-the-most-popular-machine-learning-and-deep-learning-github-repositories-90b9ecf12be7) about this project that was published in Towards Data Science and selected as an "Editors Pick" and a "Hands on Tutorial".
+- I collected, analyzed, and visualized data on thousands of Machine Learning and Deep Learning GitHub repositories.  I wrote [an article](https://towardsdatascience.com/exploring-the-most-popular-machine-learning-and-deep-learning-github-repositories-90b9ecf12be7) about this project that was published in Towards Data Science and selected as an "Editors Pick" and a "Hands on Tutorial". -->

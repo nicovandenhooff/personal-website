@@ -6,15 +6,15 @@ title: Nico Van den Hooff
 superuser: true
 
 # Role/position/tagline
-role: Incoming Junior Machine Learning Scientist
+role: Machine Learning @ Patriot One Technologies
 
 # Organizations/Affiliations to show in About widget
-# organizations:
-# - name: University of British Columbia
-#   url: https://masterdatascience.ubc.ca/programs/vancouver
+organizations:
+- name: Patriot One Technologies
+  url: https://patriot1tech.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently completing a Master of Data Science at the University of British Columbia
+bio: Machine Learning @ Patriot One Technologies
 
 # Interests to show in About widget
 interests:
@@ -37,20 +37,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-
-- icon: github
-  icon_pack: fab
-  link: https://github.com/nicovandenhooff
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/nicovandenhooff/
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/nicovandenhooff
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
@@ -68,10 +63,4 @@ email: ""
 highlight_name: true
 ---
 
-Currently, I am a graduate student in the [Master of Data Science](https://masterdatascience.ubc.ca/) program at the University of British Columbia ("UBC"). Right now I am working on my final capstone project in partnership with TRIUMF and CERN.  My team and I are working with data collected by CERN in Switzerland as part of their [NA62 research project](https://home.cern/science/experiments/na62).  We are developing a deep learning model to be used in classifying the decays of sub-atomic particles.
-
-In July 2022 I will be joining the Multi-Sensor Gateway team at [Patriot One Technologies](https://patriot1tech.com/) as a Junior Machine Learning Scientist.  I am beyond excited to be joining such a talented team, and I am truly looking forward to using machine learning to develop the next generation of covert threat detection systems that will help create a safer world.
-
-I worked in finance for six years prior to completing my Master's degree.  Most recently, I worked at [KPMG LLP](https://home.kpmg/ca/en/home.html) as a Senior Accountant/Consultant.  At KPMG I gained invaluable experience in leadership and project management, as I was in charge of client engagements with large banking, wealth management, and real estate corporations. I am also a [Chartered Professional Accountant](https://www.cpacanada.ca/) ("CPA"), and I placed on the Canadian National Honour roll in 2017 when I wrote the CPA final entrance exam (awarded to the top 1% of writers across Canada).
-
-In my free time I enjoy long distance running, golf, listening to music, and whisky tasting.  I have completed three marathons and several half marathons.  Finally, I am also the owner of the Instagram account [@whiskyaficionado](https://www.instagram.com/whiskyaficionado/?hl=en) where I share my thoughts about whisky with 10k+ followers.
+Currently, I am a Machine Learning Scientist at Patriot One Technologies.  I work within a cross-functional engineering team in developing the next generation of threat detection systems and technologies.  Right now, I'm working on the machine learning aspects of our [SmartGateway](https://patriot1tech.com/patscan/multi-sensor/) product.  I'm passionate about all things machine learning and deep learning related.  Prior to working with Patriot One, I completed my Masters degree in Data Science at the University of British Columbia, which included completing a capstone project with TRIUMF, Canada's largest particle accelerator centre.  As part of the capstone project my team and I trained and tuned state-of-the-art graph neural network models for the purposes of classifying sub-atomic particles.  In my spare time I am an avid runner and golfer, I enjoy music, and I love tasting wine and whisky.
