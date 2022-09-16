@@ -14,7 +14,7 @@ organizations:
   url: https://patriot1tech.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Machine Learning @ Patriot One Technologies
+bio: Machine Learning Scientist
 
 # Interests to show in About widget
 interests:
