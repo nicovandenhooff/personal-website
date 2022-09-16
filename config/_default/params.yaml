@@ -21,23 +21,23 @@ twitter: 'nicovandenhooff'
 # Contact (edit or remove options as required)
 
 email: ''
-address:
-  city: Vancouver
-  region: BC
-  country: Canada
-  country_code: CAN
-coordinates:
-  latitude: ''
-  longitude: ''
+# address:
+#   city: Vancouver
+#   region: BC
+#   country: Canada
+#   country_code: CAN
+# coordinates:
+#   latitude: ''
+#   longitude: ''
 contact_links:
   - icon: linkedin
     icon_pack: fab
     name: Linkedin
     link: 'https://www.linkedin.com/in/nicovandenhooff/'
-  - icon: github
-    icon_pack: fab
-    name: GitHub
-    link: 'https://github.com/nicovandenhooff'
+  # - icon: github
+  #   icon_pack: fab
+  #   name: GitHub
+  #   link: 'https://github.com/nicovandenhooff'
   
 
 # Site header
