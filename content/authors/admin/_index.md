@@ -10,11 +10,11 @@ role: Machine Learning Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Patriot One Technologies
-  url: https://patriot1tech.com/
+- name: Xtract One Technologies
+  url: https://xtractone.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Machine Learning Scientist
+bio: Machine Learning Engineer
 
 # Interests to show in About widget
 interests:
@@ -63,4 +63,4 @@ email: ""
 highlight_name: true
 ---
 
-Currently, I am a Machine Learning Scientist at Patriot One Technologies.  I work within a cross-functional engineering team in developing the next generation of threat detection systems and technologies.  Right now, I'm working on the machine learning aspects of our [SmartGateway](https://patriot1tech.com/patscan/multi-sensor/) product.  I'm passionate about all things machine learning and deep learning related.  Prior to working with Patriot One, I completed my Masters degree in Data Science at the University of British Columbia, which included completing a capstone project with TRIUMF, Canada's largest particle accelerator centre.  As part of the capstone project my team and I trained and tuned state-of-the-art graph neural network models for the purposes of classifying sub-atomic particles.  In my spare time I am an avid runner and golfer, I enjoy music, and I love tasting wine and whisky.
+Nico is a Machine Learning Engineer at Xtract One, a Canadian technology company developing the next generation of threat detection systems.  Nico obtained his Masters degree in Data Science from the University of British Columbia.  As part of his Masters degree, Nico completed a capstone project with TRIUMF, Canada's largest particle accelerator centre.  His capstone project involved using deep learning techniques to classify sub-atomic particles.  Nico is a triathlete, and is currently training for Ironman Canada.
